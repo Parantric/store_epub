@@ -1,2 +1,5 @@
-# store_epub
-个人收藏的 EPUB 电子书👍
+# `store_epub`
+
+![](https://gitee.com/justdoitor/gitee-images-plus/raw/master/images/202405201901421.jpg)
+
+> 个人爱好，读书。
